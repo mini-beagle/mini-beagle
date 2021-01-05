@@ -1,8 +1,8 @@
-## Hello! 👋 (●'◡'●)
+## Hello! 👋 (●'◡'●) Happy 2021!
 
-Welcome to my GitHub profile! (Yes, I know my photo is of a corgi, not a beagle.)
+Profile might look sparse for a little while as I get all settled in for the ride that is the new year.
 
-## Things I'm working on, learning, pondering, etc.
+<!--## Things I'm working on, learning, pondering, etc.
 - 🐍 Python (+ a touch of Django)
 - 💻 Web Development (mostly front-end)
 - 🎨 User Experience & Design
@@ -27,6 +27,7 @@ Welcome to my GitHub profile! (Yes, I know my photo is of a corgi, not a beagle.
 
 🎬 Watching...
 - *Kingdom*
+-->
 
 <!--
 **mini-beagle/mini-beagle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
