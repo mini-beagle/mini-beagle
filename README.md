@@ -1,14 +1,6 @@
 ## Hello! 👋 (●'◡'●)
 
-Over the past several years, I've gone from being a computer science major to a software engineer to a technical product manager. With each of these changes, I've had the opportunity to learn new things, develop different skills, and continually grow as both a technology professional and an individual. As for what the next step in my career is... Who knows! I'm open to change :)
-
-Anyway, I'm sure you're here to see code. While I historically haven't added things to my GitHub much, there are a few code snippets and projects here. You can also find more code samples/projects of mine on [replit](https://replit.com/@minibeagle)! I've also done a fair amount of learning through Coursera, the coursework from which I have not added here (though perhaps one day?).
-
-And lastly, a few things I'm working on these days and/or plan to work on in 2022:
-- Python (honestly, this might be my favorite programming language, at least as of late)
-- SQL (I used this the most in my previous jobs, but I find I get a rather rusty after any period of not using it)
-- Web development (broad, I know. I'd like to make another music-meets-art type project, possibly)
-- Technical writing (where my passion for technology and writing meet; a potential next step in my career!)
+Sorry there isn't much to see here at the moment, as I've shifted over the years from writing code to writing words. That said, please take a look around and see what you think.
 
 <!--
 **mini-beagle/mini-beagle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
